@@ -1,0 +1,9 @@
+@font-face{
+	font-family: 'fontecabecalho';
+	src: url("fontes/NexaDemo-Bold.otf");
+}
+
+#cabecalho{
+	
+	color: orange;
+}
